@@ -2,5 +2,5 @@
 <br><br>
  
 <div align="center">
-<img src="https://github.com/lfalvespe/formulario-html-css/blob/main/preview-mini.jpg">
+<img src="preview-mobile.jpg" width="250px" height="528px">
 </div>
