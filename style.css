@@ -18,13 +18,14 @@ body{
 	max-height: 600px;
 }
 fieldset{
-	border: 3px solid dodgerblue;
+	border: 3px solid whitesmoke;
 }
 legend{
-	border: 1px solid dodgerblue;
+	border: 1px solid whitesmoke;
 	padding: 10px;
 	text-align: center;
-	background-color: dodgerblue;
+	text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.363);
+	background-color: rgb(73, 141, 209);
 	border-radius: 8px;
 }
 .inputbox{
@@ -71,6 +72,7 @@ legend{
 	border-radius: 10px;
 	color: white;
 	font-size: 15px;
+	text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.322);
 	font-weight: bold;
 	cursor:pointer;
 }
