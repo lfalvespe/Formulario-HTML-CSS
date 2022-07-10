@@ -13,7 +13,8 @@ body{
     background-color: rgba(0, 0, 0, 0.4);
     padding: 15px;
     border-radius: 15px;
-    width: 21%;
+    width: 300px;
+	min-height: 85vh;
 }
 fieldset{
     border: 3px solid dodgerblue;
